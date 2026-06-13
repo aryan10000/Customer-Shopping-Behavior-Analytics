@@ -148,6 +148,22 @@ Target discounts toward high-value customer segments.
 
 ---
 
+## Project Architecture
+
+Raw Data (CSV)
+        ↓
+Python (Cleaning & EDA)
+        ↓
+PostgreSQL Database
+        ↓
+SQL Business Analysis
+        ↓
+Tableau Dashboard
+        ↓
+Business Recommendations
+
+---
+
 ## Author
 
 Aryan Soni
