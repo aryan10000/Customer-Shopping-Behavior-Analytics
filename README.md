@@ -169,4 +169,4 @@ Customer-Shopping-Behavior-Analytics/
 
 Aryan Soni
 
-Aspiring Data Analyst focused on Python, SQL, PostgreSQL, Tableau, and Business Analytics.
+Data Analytics | SQL | PostgreSQL | Python | Tableau
