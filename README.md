@@ -15,8 +15,9 @@ The project follows a complete analytics workflow:
 
 ## Dashboard Preview
 
-![Executive Dashboard](<img width="1280" height="832" alt="executive_dashboard" src="https://github.com/user-attachments/assets/ba8955e9-57fc-4986-9260-ae65566e4f98" />
-)
+<img width="1280" height="832" alt="executive_dashboard" src="https://github.com/user-attachments/assets/ba8955e9-57fc-4986-9260-ae65566e4f98" />
+
+https://public.tableau.com/views/CustomerShoppingBehaviorDashboard/CustomerShoppingBehaviorDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
