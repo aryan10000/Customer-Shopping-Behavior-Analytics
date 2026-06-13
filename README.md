@@ -148,23 +148,6 @@ Target discounts toward high-value customer segments.
 
 ---
 
-## Repository Structure
-
-```text
-Customer-Shopping-Behavior-Analytics/
-
-├── business_requirements.pdf
-├── Customer_behaviour_analysis_report.pdf
-├── customer_shopping_behavior.csv
-├── Data_cleaning_and_EDA.ipynb
-├── Business_analysis_queries.sql
-├── executive_dashboard.png
-├── executive_summary_deck.pptx
-└── README.md
-```
-
----
-
 ## Author
 
 Aryan Soni
