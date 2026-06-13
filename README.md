@@ -128,6 +128,20 @@ Created an interactive Tableau dashboard featuring:
 
 ---
 
+## Business Impact
+
+This analysis helped identify:
+
+- High-value customer segments
+- Revenue-generating product categories
+- Subscription-driven purchasing patterns
+- Opportunities for customer retention
+- Marketing optimization strategies
+
+The findings can be used to improve revenue growth, increase customer loyalty, and support data-driven decision making.
+
+---
+
 ## Business Recommendations
 
 ### Increase Subscription Adoption
