@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes 3,900 retail transactions to uncover customer purchasing behavior, revenue drivers, customer segments, and subscription trends.
+This end-to-end retail customer analytics project analyzes 3,900 customer transactions to uncover purchasing behavior, revenue drivers, customer segments, and subscription trends. The objective is to transform raw transactional data into actionable business insights that support revenue growth, customer retention, and data-driven decision-making.
 
 The project follows a complete analytics workflow:
 
@@ -165,17 +165,35 @@ Target discounts toward high-value customer segments.
 
 ## Project Architecture
 
+```text
 Raw Data (CSV)
-        ↓
+      │
+      ▼
 Python (Cleaning & EDA)
-        ↓
+      │
+      ▼
 PostgreSQL Database
-        ↓
+      │
+      ▼
 SQL Business Analysis
-        ↓
+      │
+      ▼
 Tableau Dashboard
-        ↓
+      │
+      ▼
 Business Recommendations
+```
+
+---
+
+## Project Files
+
+- `Data_cleaning_and_EDA.ipynb` → Data cleaning and exploratory analysis
+- `Business_analysis_queries.sql` → SQL business analysis queries
+- `customer_shopping_behavior.csv` → Raw dataset
+- `Customer_behaviour_analysis_report.pdf` → Detailed project report
+- `business_requirements.pdf` → Business problem statement
+- `executive_summary_deck.pptx` → Stakeholder presentation
 
 ---
 
