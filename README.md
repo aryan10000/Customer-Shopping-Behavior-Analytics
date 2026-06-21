@@ -202,4 +202,4 @@ Business Recommendations
 
 Aryan Soni
 
-Data Analytics | SQL | PostgreSQL | Python | Tableau
+Data Analytics | SQL | PostgreSQL | Python | PowerBI | Tableau
